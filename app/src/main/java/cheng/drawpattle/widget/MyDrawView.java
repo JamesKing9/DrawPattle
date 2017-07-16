@@ -20,7 +20,7 @@ import java.util.List;
 
 public class MyDrawView extends View {
 
-    private List<Point> points= new ArrayList<>();
+    private List<Point> points = new ArrayList<>();
 
     public MyDrawView(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
